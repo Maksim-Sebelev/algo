@@ -44,12 +44,17 @@
 #include <iostream>
 #include <vector>
 
+#include <bits/stdc++.h>
+
+// #include <bits/
+
 using ull = unsigned long long int;
 using namespace std;
 
 
-void print_gray(ull n)
+void print_gray(ull n, ull m, bool k)
 {
+    
 }
 
 
