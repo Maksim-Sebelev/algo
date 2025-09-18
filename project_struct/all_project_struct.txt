@@ -1,0 +1,249 @@
+.
+├── 3_sem
+│   └── 1_hw
+│       ├── 1_contest
+│       │   ├── A.cpp
+│       │   ├── a.out
+│       │   ├── B.cpp
+│       │   ├── bin
+│       │   │   ├── main.d
+│       │   │   └── main.o
+│       │   ├── build
+│       │   │   └── stack
+│       │   ├── main.cpp
+│       │   ├── Makefile
+│       │   └── .vscode
+│       │       ├── c_cpp_properties.json
+│       │       └── settings.json
+│       ├── 2_constest
+│       │   ├── a.out
+│       │   ├── D.cpp
+│       │   ├── K.cpp
+│       │   └── .vscode
+│       │       ├── A.cpp
+│       │       ├── a.out
+│       │       ├── B.cpp
+│       │       ├── bin
+│       │       │   ├── main.d
+│       │       │   └── main.o
+│       │       ├── build
+│       │       │   └── stack
+│       │       ├── c_cpp_properties.json
+│       │       ├── main.cpp
+│       │       ├── Makefile
+│       │       ├── settings.json
+│       │       └── .vscode
+│       │           ├── c_cpp_properties.json
+│       │           └── settings.json
+│       ├── .gitignore
+│       ├── project_struct
+│       │   ├── all_project_struct.txt
+│       │   ├── project_struct.txt
+│       │   └── without_gitignore_project_struct.txt
+│       └── .vscode
+│           ├── A.cpp
+│           ├── a.out
+│           ├── B.cpp
+│           ├── bin
+│           │   ├── main.d
+│           │   └── main.o
+│           ├── build
+│           │   └── stack
+│           ├── c_cpp_properties.json
+│           ├── main.cpp
+│           ├── Makefile
+│           ├── settings.json
+│           └── .vscode
+│               ├── c_cpp_properties.json
+│               └── settings.json
+├── .git
+│   ├── branches
+│   ├── COMMIT_EDITMSG
+│   ├── config
+│   ├── description
+│   ├── FETCH_HEAD
+│   ├── HEAD
+│   ├── hooks
+│   │   ├── applypatch-msg.sample
+│   │   ├── commit-msg.sample
+│   │   ├── fsmonitor-watchman.sample
+│   │   ├── post-update.sample
+│   │   ├── pre-applypatch.sample
+│   │   ├── pre-commit.sample
+│   │   ├── pre-merge-commit.sample
+│   │   ├── prepare-commit-msg.sample
+│   │   ├── pre-push.sample
+│   │   ├── pre-rebase.sample
+│   │   ├── pre-receive.sample
+│   │   ├── push-to-checkout.sample
+│   │   ├── sendemail-validate.sample
+│   │   └── update.sample
+│   ├── index
+│   ├── info
+│   │   └── exclude
+│   ├── logs
+│   │   ├── HEAD
+│   │   └── refs
+│   │       ├── heads
+│   │       │   └── main
+│   │       └── remotes
+│   │           └── origin
+│   │               └── main
+│   ├── objects
+│   │   ├── 08
+│   │   │   └── 9aef303ab400544ad5750e9571dc99b6630a57
+│   │   ├── 0e
+│   │   │   ├── 3df7ac1431be151d6f4cd4570836324377700a
+│   │   │   └── 7fb21ed0921a7bde6f3e5b43aed83ad240df32
+│   │   ├── 16
+│   │   │   ├── 6af07bbe1690be9fef839be036e1670fa98acd
+│   │   │   └── de1340302fb8af80ec39885119b607a396f477
+│   │   ├── 1c
+│   │   │   └── d03a39a717c6360622216966c1ff059feb19e2
+│   │   ├── 1d
+│   │   │   ├── 97975e20492830c8c5e594ea77a41abeb61c68
+│   │   │   └── dbd76cd2bf0899dda26f8e42bc6eb9922c7cb1
+│   │   ├── 20
+│   │   │   └── 82601d4649e53f78b8f9cd4901c158420421b4
+│   │   ├── 25
+│   │   │   └── b1a14a02ae4c8512a9ed34b0ea2647bda9c557
+│   │   ├── 2a
+│   │   │   └── 507e22287838ab94bc8bed87c28a35e94a3acd
+│   │   ├── 35
+│   │   │   └── a6814a23129e9a1e9a548d594e6eef3228e698
+│   │   ├── 3c
+│   │   │   ├── 3b304baadd8dac4d67ab6934c26ae7bae17290
+│   │   │   └── a5966684b95ff078d4004b5d035c899e46a761
+│   │   ├── 3f
+│   │   │   ├── 55e9d278b46ed8459b3347ea28b2b386ecd9e5
+│   │   │   └── b70c4caf1247d737e7a077d2d8c67063a87264
+│   │   ├── 46
+│   │   │   └── a29eef91f1e925cba6645e77b4448a84f10605
+│   │   ├── 47
+│   │   │   └── c1d162bff2606eed0654e117c49fac45731a33
+│   │   ├── 4a
+│   │   │   └── cfe0fd2f9abb8859dc142977d07885c8592452
+│   │   ├── 4b
+│   │   │   └── fb452b75b8179350d7196cfc70b9e5ecc1c907
+│   │   ├── 4e
+│   │   │   ├── 5f50e9a36f381fbf51e6d9f2bbae72b1138481
+│   │   │   └── 69ebf6f51d1d2ca2cb1b6d0685df712a08f508
+│   │   ├── 54
+│   │   │   └── f329ec990ee532353a1b90065c66e143afd166
+│   │   ├── 57
+│   │   │   └── f191ccd7a7db2a51178bb0e8ea890e5fb3c3d4
+│   │   ├── 59
+│   │   │   └── 8eaad4e5e09ab372d1de5dff75d433643595cd
+│   │   ├── 5f
+│   │   │   └── 6cb8a75601a3ac4a30638437223ea97bbb3226
+│   │   ├── 61
+│   │   │   └── be9f5ef7832559f29fabdf8e9c77b5830edb0a
+│   │   ├── 64
+│   │   │   ├── 7800479394077736337220d5385f90b36e6ea3
+│   │   │   └── b0c537974e2b76c838feeebed09fbce1c7836b
+│   │   ├── 66
+│   │   │   └── 3136fd1d3756e87aa2379fb3ee8660565e021c
+│   │   ├── 6e
+│   │   │   └── 927b8e7f9ff1343b53b5a87a07223e8492a4fe
+│   │   ├── 75
+│   │   │   └── 09bda185954a58a7ded4879492153c79c76eff
+│   │   ├── 76
+│   │   │   └── b931fc6a5b6c3ebf900f39c80991a11e1e0e00
+│   │   ├── 78
+│   │   │   └── 10685a5b24d7f93e116ed676adce130503822e
+│   │   ├── 7a
+│   │   │   └── 0966fe1eabb33216568d558c5f8a78896ba11d
+│   │   ├── 7e
+│   │   │   └── 8f3550edb779e06565515b58c5cb56950bddcc
+│   │   ├── 81
+│   │   │   └── f082cf8e72f72e430c8d41842fc73c7baf4eda
+│   │   ├── 87
+│   │   │   ├── c75da313834daf6d048121bfab0e9c82c5abec
+│   │   │   └── e950d8b6132ec7f89f26dc4093934c4d733378
+│   │   ├── 8c
+│   │   │   └── 26504908a81d4967ac900ddf38916d40194651
+│   │   ├── 8f
+│   │   │   └── 8d73287c03d64206982449b421b84e0f35c075
+│   │   ├── 91
+│   │   │   ├── 4dbc8bfe060e55a4af5bc5391349469a355909
+│   │   │   └── cadd7c29b1efabc3c011566f00cd3967c6e78e
+│   │   ├── 95
+│   │   │   └── 3b085337955af7b0d01eb6483c98e30457e157
+│   │   ├── 99
+│   │   │   └── 1bbe67bdd8e25670fbbcbb93e501fdd6062b07
+│   │   ├── 9e
+│   │   │   └── 12b1d0b5590357031e32de2555ee8118546e27
+│   │   ├── 9f
+│   │   │   └── 9251ee02356574a24781cc5d19090b9893a1c7
+│   │   ├── a1
+│   │   │   └── 981c70fcf10d5601e6725768d1e2ee39daf399
+│   │   ├── a2
+│   │   │   └── 4acdf6b3d1e1aa7486b8c55618be83d25a0aef
+│   │   ├── a6
+│   │   │   └── fd38e6322cdbbad3b77d2d798482b253679edb
+│   │   ├── b4
+│   │   │   ├── 26b01319283b57be508f94b9d5b66b61d38164
+│   │   │   └── dd3057410ffa983cdd04127f0c7f3d0a79cfa3
+│   │   ├── bd
+│   │   │   └── b11bf2e62c6f27cecb58a7153484dd7e7dbf42
+│   │   ├── be
+│   │   │   └── 9a00b4ce4a911eeadb77fcea142f17384959c1
+│   │   ├── c1
+│   │   │   └── c7363e4434175fe2c9204b468448e4b7f96053
+│   │   ├── c9
+│   │   │   └── d67aa61c6e4273d8fc186d048781e97c5440c2
+│   │   ├── ca
+│   │   │   └── 835017a10cab9cb0f6d85705dcbd6b83fdf1c6
+│   │   ├── cb
+│   │   │   └── 02fcfc84d5c3bbd9c9c8f81005be8ec06cf252
+│   │   ├── d0
+│   │   │   └── 792486480f61a37eb35682e09b4affddedb1ef
+│   │   ├── d4
+│   │   │   └── 3ac3cff3d7efd0ea7af56e17d5b36814236f11
+│   │   ├── d6
+│   │   │   └── 3b8db457604d009b32a91f9c5dc7e1cf2cfd11
+│   │   ├── d9
+│   │   │   ├── 7e62c79c9124460eacb279840c5713e41e560a
+│   │   │   └── a3ee2472b874857ba079adbf9a4d90ab5d6f3c
+│   │   ├── e0
+│   │   │   ├── 14250ddf21272ff77f631e9a2813f57e91ca83
+│   │   │   └── c3de0e3dbd5c00f6f2e08ae03b46f5aaf618fd
+│   │   ├── e4
+│   │   │   └── 12dc5fc2c947af5aea5616d69363ffa4328627
+│   │   ├── e6
+│   │   │   └── 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+│   │   ├── e9
+│   │   │   ├── 02627f246e079d811932181df896dbe64bad23
+│   │   │   └── 66b1f9fea001c70dfc502d70431669fc74c024
+│   │   ├── ec
+│   │   │   └── a118639d170cc03bd7a7e39aa740cbb3f818be
+│   │   ├── f1
+│   │   │   └── 26ab2f26997bf6520385b8710ba2f10ac1ffc3
+│   │   ├── f8
+│   │   │   ├── 7e0c62ac83908d1d39d5e31055c12e8bc5fe37
+│   │   │   └── db2c125ba2fdc377f25a7cebe7ad10a8a74a72
+│   │   ├── f9
+│   │   │   ├── 0d6ef452aad5a9015c1bbe74de52f60b090358
+│   │   │   └── 3f84ae08a9c58d6dc5aa2aec60ca122694a6fb
+│   │   ├── fc
+│   │   │   └── 11a266e622f1500b8c02a895630ad784d4b7ea
+│   │   ├── fd
+│   │   │   └── fd3cde3e55a2e024fac28d82fad271065feeb9
+│   │   ├── ff
+│   │   │   └── 196007b3d901352fd927699a38a94bd0b9b2bc
+│   │   ├── info
+│   │   └── pack
+│   ├── ORIG_HEAD
+│   └── refs
+│       ├── heads
+│       │   └── main
+│       ├── remotes
+│       │   └── origin
+│       │       └── main
+│       └── tags
+└── project_struct
+    ├── all_project_struct.txt
+    ├── project_struct.txt
+    └── without_gitignore_project_struct.txt
+
+98 directories, 149 files

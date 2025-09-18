@@ -1,0 +1,15 @@
+.
+├── 3_sem
+│   └── 1_hw
+│       ├── 1_contest
+│       │   ├── A.cpp
+│       │   └── B.cpp
+│       ├── 2_constest
+│       │   ├── D.cpp
+│       │   └── K.cpp
+│       └── project_struct
+│           └── project_struct.txt
+└── project_struct
+    └── project_struct.txt
+
+7 directories, 6 files
