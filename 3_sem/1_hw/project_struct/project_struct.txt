@@ -1,16 +1,11 @@
 .
 ├── 1_contest
 │   ├── A.cpp
-│   ├── B.cpp
-│   ├── bin
-│   │   ├── main.d
-│   │   └── main.o
-│   └── build
-│       └── stack
+│   └── B.cpp
 ├── 2_constest
 │   ├── D.cpp
 │   └── K.cpp
 └── project_struct
     └── project_struct.txt
 
-6 directories, 8 files
+4 directories, 5 files

@@ -6,3 +6,5 @@ bin/
 build/
 project_struct/all_project_struct.txt
 project_struct/without_gitignore_project_struct.txt
+1_contest/bin/
+1_contest/build/
