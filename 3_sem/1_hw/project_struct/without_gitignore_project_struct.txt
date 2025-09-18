@@ -1,0 +1,21 @@
+.
+├── 1_contest
+│   ├── A.cpp
+│   ├── a.out
+│   ├── B.cpp
+│   ├── bin
+│   │   ├── main.d
+│   │   └── main.o
+│   ├── build
+│   │   └── stack
+│   ├── main.cpp
+│   └── Makefile
+├── 2_constest
+│   ├── a.out
+│   ├── D.cpp
+│   └── K.cpp
+└── project_struct
+    ├── project_struct.txt
+    └── without_gitignore_project_struct.txt
+
+6 directories, 13 files
