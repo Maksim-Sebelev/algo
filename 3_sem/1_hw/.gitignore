@@ -1,7 +1,4 @@
 .vscode/
-1_contest/.vscode/
-1_contest/main.cpp
-1_constest/bin/
-1_contest/build/
-1_contest/Makefile
-1_contest/a.out
+main.cpp
+a.out
+Makefile
